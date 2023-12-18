@@ -1,2 +1,2 @@
 # comp
-A compiler.
+A compiler for a simplified version of C.
